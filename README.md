@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beabuenodev
 - 🌱 I’m currently learning Spigot, Java, Web Development.
-- 📫 How to reach me: instagram - @_beabueno_
+- 📫 How to reach me: instagram - @\_beabueno_
 
 <!---
 beabuenodev/beabuenodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
