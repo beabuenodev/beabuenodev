@@ -9,6 +9,8 @@ I am currently working on my thesis, in which we're working on training computer
 I enjoy taking systems from architecture and design through implementation and deployment, with and emphasis on reliability, scalability, and performance. 
 
 Software Engineering: Python | Java | FullStack (NodeJS, Bootstrap, TailwindCSS, NextJS) | C++ 
+
 Cloud Services: AWS Bedrock | AWS Bedrock AgentCore | AWS S3 | AWS CloudWatch | AWS EC2 | AWS Lambda | Amazon Athena | AWS Redshift 
 Networking: Linux | Docker 
+
 AI Frameworks: Strands Agents | OpenCV | Scikit-learn | TensorFlow | Keras
