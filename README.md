@@ -11,6 +11,7 @@ I enjoy taking systems from architecture and design through implementation and d
 Software Engineering: Python | Java | FullStack (NodeJS, Bootstrap, TailwindCSS, NextJS) | C++ 
 
 Cloud Services: AWS Bedrock | AWS Bedrock AgentCore | AWS S3 | AWS CloudWatch | AWS EC2 | AWS Lambda | Amazon Athena | AWS Redshift 
+
 Networking: Linux | Docker 
 
 AI Frameworks: Strands Agents | OpenCV | Scikit-learn | TensorFlow | Keras
